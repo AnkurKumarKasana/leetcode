@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AnkurKumarKasana/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnkurKumarKasana/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AnkurKumarKasana/leetcode/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnkurKumarKasana/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
