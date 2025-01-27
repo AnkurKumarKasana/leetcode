@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AnkurKumarKasana/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0136-single-number) |
+| [0239-sliding-window-maximum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -64,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
