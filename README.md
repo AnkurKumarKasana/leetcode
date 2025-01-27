@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/AnkurKumarKasana/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkurKumarKasana/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkurKumarKasana/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AnkurKumarKasana/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/AnkurKumarKasana/leetcode/tree/master/0456-132-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkurKumarKasana/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -107,4 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkurKumarKasana/leetcode/tree/master/0020-valid-parentheses) |
+| [0456-132-pattern](https://github.com/AnkurKumarKasana/leetcode/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/AnkurKumarKasana/leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/AnkurKumarKasana/leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
