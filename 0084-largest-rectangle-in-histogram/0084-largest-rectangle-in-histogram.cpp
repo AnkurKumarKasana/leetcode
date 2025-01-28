@@ -2,7 +2,8 @@ class Solution {
 public:
     int largestRectangleArea(vector<int>& arr) {
         stack <int> s;
-        int ans =0;
+        int ans =0;  
+        // ans
         arr.push_back(0);
         int n=arr.size();
         for(int i=0;i<n;i++){
