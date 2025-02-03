@@ -11,6 +11,7 @@ class Solution {
                     return true;
             }
         }m[a[i]]=i;
+// Whether or not a duplicate was found, we update the last seen index of a[i] to the current index i.
     }return false;
 }
 };
