@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AnkurKumarKasana/leetcode/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/AnkurKumarKasana/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AnkurKumarKasana/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AnkurKumarKasana/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnkurKumarKasana/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AnkurKumarKasana/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AnkurKumarKasana/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnkurKumarKasana/leetcode/tree/master/0169-majority-element) |
