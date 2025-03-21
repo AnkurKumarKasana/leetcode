@@ -1,28 +1,37 @@
 class Solution {
 public:
-    int search(vector<int>& a, int t) {
-        int low=0;
-        int n=a.size();
-        int high=n-1;
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(a[mid]==t) return mid ;
-// identify the sorted half first 
-            if(a[low]<=a[mid]){//left sorted
-                if(a[low]<=t && t<=a[mid]){
-                high=mid-1;//eliminate right half 
-                }
-            else{
-                low=mid+1;
-         }
+    int findPivot(vector<int>& arr, int n){//sbse chota number ka index milega isse 
+        int l=0,r=n-1;
+        while(l<r){
+            int mid=l+(r-l)/2;
+            if(arr[mid]>arr[r]){
+                l=mid+1;
+            }else{
+                r=mid;
+            }
+        }return r;
     }
-        else{
-            if(a[mid]<=t && t<=a[high]){
-                //left eliminate 
-                low=mid+1;
-            }else high=mid-1;
+
+
+    int binarysearch(int l, int r,vector<int>& arr, int target){//simple binary search 
+        while(l<=r){
+            int mid=l+(r-l)/2;
+            if(arr[mid]==target)return mid;
+            else if(arr[mid]>target)r=mid-1;
+            else if(arr[mid]<target) l=mid+1;
+        }return -1;
+    }
+
+
+    int search(vector<int>& arr, int target) {
+        int n=arr.size();
+        int pivotindex= findPivot(arr,n);
+        int idx=binarysearch(0,pivotindex-1,arr,target);//left side of pivot index
+        if(idx!=-1){
+            return idx;
         }
-     }return -1;
+        idx=binarysearch(pivotindex,n-1,arr,target);//right side of pivot index
+        return idx;
         
     }
 };
