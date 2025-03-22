@@ -268,11 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AnkurKumarKasana/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnkurKumarKasana/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/AnkurKumarKasana/leetcode/tree/master/0733-flood-fill) |
+| [2793-count-the-number-of-complete-components](https://github.com/AnkurKumarKasana/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AnkurKumarKasana/leetcode/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/AnkurKumarKasana/leetcode/tree/master/0733-flood-fill) |
+| [2793-count-the-number-of-complete-components](https://github.com/AnkurKumarKasana/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2793-count-the-number-of-complete-components](https://github.com/AnkurKumarKasana/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AnkurKumarKasana/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Simulation
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnkurKumarKasana/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/AnkurKumarKasana/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AnkurKumarKasana/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
