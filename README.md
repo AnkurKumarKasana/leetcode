@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/AnkurKumarKasana/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2530-minimize-maximum-of-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AnkurKumarKasana/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/AnkurKumarKasana/leetcode/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AnkurKumarKasana/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AnkurKumarKasana/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AnkurKumarKasana/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AnkurKumarKasana/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/AnkurKumarKasana/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/AnkurKumarKasana/leetcode/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/AnkurKumarKasana/leetcode/tree/master/0733-flood-fill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/AnkurKumarKasana/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AnkurKumarKasana/leetcode/tree/master/0733-flood-fill) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnkurKumarKasana/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AnkurKumarKasana/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -329,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/AnkurKumarKasana/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AnkurKumarKasana/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Simulation
