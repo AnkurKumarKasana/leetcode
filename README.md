@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AnkurKumarKasana/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0768-partition-labels](https://github.com/AnkurKumarKasana/leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnkurKumarKasana/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AnkurKumarKasana/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AnkurKumarKasana/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AnkurKumarKasana/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0768-partition-labels](https://github.com/AnkurKumarKasana/leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/AnkurKumarKasana/leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AnkurKumarKasana/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnkurKumarKasana/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0768-partition-labels](https://github.com/AnkurKumarKasana/leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/AnkurKumarKasana/leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnkurKumarKasana/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2530-minimize-maximum-of-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AnkurKumarKasana/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/AnkurKumarKasana/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnkurKumarKasana/leetcode/tree/master/0344-reverse-string) |
+| [0768-partition-labels](https://github.com/AnkurKumarKasana/leetcode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnkurKumarKasana/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnkurKumarKasana/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AnkurKumarKasana/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
