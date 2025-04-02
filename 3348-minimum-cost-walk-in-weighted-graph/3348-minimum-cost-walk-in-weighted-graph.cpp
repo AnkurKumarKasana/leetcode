@@ -3,7 +3,7 @@ public:
     vector<int> minimumCost(int n, vector<vector<int>>& edges, vector<vector<int>>& query) {
         vector<int> parent(n), min_path_cost(n, -1);
         iota(parent.begin(), parent.end(), 0);
-
+//copy pasted
         function<int(int)> find_root = [&](int node) {
             if (parent[node] != node) {
                 parent[node] = find_root(parent[node]);
