@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AnkurKumarKasana/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AnkurKumarKasana/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/AnkurKumarKasana/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnkurKumarKasana/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AnkurKumarKasana/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AnkurKumarKasana/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnkurKumarKasana/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/AnkurKumarKasana/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnkurKumarKasana/leetcode/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkurKumarKasana/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/AnkurKumarKasana/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AnkurKumarKasana/leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/AnkurKumarKasana/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnkurKumarKasana/leetcode/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkurKumarKasana/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AnkurKumarKasana/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AnkurKumarKasana/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AnkurKumarKasana/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnkurKumarKasana/leetcode/tree/master/0733-flood-fill) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnkurKumarKasana/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AnkurKumarKasana/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AnkurKumarKasana/leetcode/tree/master/0200-number-of-islands) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/AnkurKumarKasana/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AnkurKumarKasana/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
