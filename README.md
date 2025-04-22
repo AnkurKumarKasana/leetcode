@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AnkurKumarKasana/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/AnkurKumarKasana/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AnkurKumarKasana/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AnkurKumarKasana/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/AnkurKumarKasana/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AnkurKumarKasana/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AnkurKumarKasana/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0349-intersection-of-two-arrays) |
