@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/AnkurKumarKasana/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
 | [1500-count-largest-group](https://github.com/AnkurKumarKasana/leetcode/tree/master/1500-count-largest-group) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AnkurKumarKasana/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnkurKumarKasana/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkurKumarKasana/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AnkurKumarKasana/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnkurKumarKasana/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnkurKumarKasana/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnkurKumarKasana/leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
