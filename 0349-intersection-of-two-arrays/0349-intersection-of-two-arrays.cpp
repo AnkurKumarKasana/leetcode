@@ -1,17 +1,15 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& arr, vector<int>& brr) {
-            set<int> ans;
-
+        set <int> result;
         for(int i=0;i<arr.size();i++){
             for(int j=0;j<brr.size();j++){
                 if(arr[i]!=INT_MAX && arr[i]==brr[j]){
-                    ans.insert(arr[i]);
-                    arr[i]=INT_MAX;
+                    result.insert(arr[i]);
                     break;
                 }
             }
         }
-        return vector<int>(ans.begin(), ans.end()); 
+        return vector<int>(result.begin(),result.end());
     }
 };
