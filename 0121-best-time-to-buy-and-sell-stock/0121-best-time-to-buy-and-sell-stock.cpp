@@ -4,8 +4,8 @@ public:
         int n=arr.size();
         int mini=arr[0],profit=0;
             for(int i=1;i<n;i++){
-                int currprofit=arr[i]-mini;
-                profit=max(currprofit,profit);
+                int cost=arr[i]-mini;
+                profit=max(cost,profit);
                 mini=min(mini,arr[i]);
             
         }return profit;
