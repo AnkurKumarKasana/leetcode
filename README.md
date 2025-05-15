@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AnkurKumarKasana/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AnkurKumarKasana/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/AnkurKumarKasana/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0258-add-digits) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AnkurKumarKasana/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Trie
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0948-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
