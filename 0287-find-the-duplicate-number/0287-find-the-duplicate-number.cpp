@@ -1,10 +1,10 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        unordered_set<int> seen;
+        unordered_set<int> s;
         for (int num : nums) {
-            if (seen.count(num)) return num;
-            seen.insert(num);
+            if (s.count(num)) return num;
+            s.insert(num);
         }
         return -1;
     }
