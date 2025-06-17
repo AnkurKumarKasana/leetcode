@@ -1,5 +1,5 @@
 const int MOD = 1e9 + 7;
-
+//copy paste 
 class Solution {
 public:
     long long modInverse(long long a, long long mod){
