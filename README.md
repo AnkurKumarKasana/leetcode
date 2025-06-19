@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AnkurKumarKasana/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnkurKumarKasana/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
@@ -487,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AnkurKumarKasana/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AnkurKumarKasana/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
