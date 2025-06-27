@@ -11,9 +11,10 @@
  */
 class Solution {
 public:
-    bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(p==NULL && q==NULL)return true;
-        if(p==NULL || q==NULL || p->val!=q->val)return false;
-        return isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
+    bool isSameTree(TreeNode* l, TreeNode* r) {
+        if(l==NULL && r==NULL)return true;
+        if(l==NULL || r==NULL)return false;
+        if((l->val==r->val) && isSameTree(l->left,r->left)&& isSameTree(l->right,r->right))return true;
+        return false;
     }
 };
