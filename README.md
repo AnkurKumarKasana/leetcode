@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkurKumarKasana/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnkurKumarKasana/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AnkurKumarKasana/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2886-faulty-keyboard](https://github.com/AnkurKumarKasana/leetcode/tree/master/2886-faulty-keyboard) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnkurKumarKasana/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3617-find-the-original-typed-string-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Prefix Sum
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/AnkurKumarKasana/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AnkurKumarKasana/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2886-faulty-keyboard](https://github.com/AnkurKumarKasana/leetcode/tree/master/2886-faulty-keyboard) |
 ## Trie
 |  |
 | ------- |
