@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AnkurKumarKasana/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnkurKumarKasana/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnkurKumarKasana/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0742-to-lower-case](https://github.com/AnkurKumarKasana/leetcode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/AnkurKumarKasana/leetcode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnkurKumarKasana/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkurKumarKasana/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
