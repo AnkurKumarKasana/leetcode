@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/AnkurKumarKasana/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AnkurKumarKasana/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnkurKumarKasana/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AnkurKumarKasana/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/AnkurKumarKasana/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AnkurKumarKasana/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AnkurKumarKasana/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AnkurKumarKasana/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkurKumarKasana/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AnkurKumarKasana/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Tree
 |  |
 | ------- |
