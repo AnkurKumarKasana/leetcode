@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/AnkurKumarKasana/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/AnkurKumarKasana/leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnkurKumarKasana/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AnkurKumarKasana/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AnkurKumarKasana/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnkurKumarKasana/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AnkurKumarKasana/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnkurKumarKasana/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnkurKumarKasana/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AnkurKumarKasana/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2530-minimize-maximum-of-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnkurKumarKasana/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AnkurKumarKasana/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnkurKumarKasana/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkurKumarKasana/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnkurKumarKasana/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnkurKumarKasana/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AnkurKumarKasana/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2886-faulty-keyboard](https://github.com/AnkurKumarKasana/leetcode/tree/master/2886-faulty-keyboard) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnkurKumarKasana/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkurKumarKasana/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnkurKumarKasana/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnkurKumarKasana/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
