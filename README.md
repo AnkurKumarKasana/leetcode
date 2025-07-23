@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/AnkurKumarKasana/leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnkurKumarKasana/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AnkurKumarKasana/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AnkurKumarKasana/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AnkurKumarKasana/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2530-minimize-maximum-of-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AnkurKumarKasana/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AnkurKumarKasana/leetcode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnkurKumarKasana/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AnkurKumarKasana/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AnkurKumarKasana/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkurKumarKasana/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnkurKumarKasana/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AnkurKumarKasana/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/AnkurKumarKasana/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnkurKumarKasana/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AnkurKumarKasana/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
