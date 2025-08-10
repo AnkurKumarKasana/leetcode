@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AnkurKumarKasana/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/AnkurKumarKasana/leetcode/tree/master/0768-partition-labels) |
+| [0900-reordered-power-of-2](https://github.com/AnkurKumarKasana/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/AnkurKumarKasana/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AnkurKumarKasana/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnkurKumarKasana/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/AnkurKumarKasana/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0900-reordered-power-of-2](https://github.com/AnkurKumarKasana/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/AnkurKumarKasana/leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AnkurKumarKasana/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/AnkurKumarKasana/leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0900-reordered-power-of-2](https://github.com/AnkurKumarKasana/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
 | [1500-count-largest-group](https://github.com/AnkurKumarKasana/leetcode/tree/master/1500-count-largest-group) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AnkurKumarKasana/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AnkurKumarKasana/leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/AnkurKumarKasana/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AnkurKumarKasana/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkurKumarKasana/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AnkurKumarKasana/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -681,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/AnkurKumarKasana/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/AnkurKumarKasana/leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
