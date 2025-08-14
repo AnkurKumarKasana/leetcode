@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkurKumarKasana/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnkurKumarKasana/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnkurKumarKasana/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/AnkurKumarKasana/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AnkurKumarKasana/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2886-faulty-keyboard](https://github.com/AnkurKumarKasana/leetcode/tree/master/2886-faulty-keyboard) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnkurKumarKasana/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
