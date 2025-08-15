@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AnkurKumarKasana/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/AnkurKumarKasana/leetcode/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AnkurKumarKasana/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AnkurKumarKasana/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/AnkurKumarKasana/leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/AnkurKumarKasana/leetcode/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/AnkurKumarKasana/leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0900-reordered-power-of-2](https://github.com/AnkurKumarKasana/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AnkurKumarKasana/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AnkurKumarKasana/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnkurKumarKasana/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AnkurKumarKasana/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
