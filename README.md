@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkurKumarKasana/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkurKumarKasana/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/AnkurKumarKasana/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AnkurKumarKasana/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnkurKumarKasana/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AnkurKumarKasana/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnkurKumarKasana/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2530-minimize-maximum-of-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AnkurKumarKasana/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AnkurKumarKasana/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkurKumarKasana/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnkurKumarKasana/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnkurKumarKasana/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AnkurKumarKasana/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/AnkurKumarKasana/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/0496-next-greater-element-i) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Ordered Set
 |  |
 | ------- |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnkurKumarKasana/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnkurKumarKasana/leetcode/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnkurKumarKasana/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AnkurKumarKasana/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
