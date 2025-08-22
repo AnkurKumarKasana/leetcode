@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnkurKumarKasana/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AnkurKumarKasana/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnkurKumarKasana/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AnkurKumarKasana/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkurKumarKasana/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnkurKumarKasana/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
