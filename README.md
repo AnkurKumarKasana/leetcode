@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/AnkurKumarKasana/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/AnkurKumarKasana/leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnkurKumarKasana/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AnkurKumarKasana/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AnkurKumarKasana/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AnkurKumarKasana/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AnkurKumarKasana/leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/AnkurKumarKasana/leetcode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/AnkurKumarKasana/leetcode/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AnkurKumarKasana/leetcode/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/AnkurKumarKasana/leetcode/tree/master/0498-diagonal-traverse) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkurKumarKasana/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AnkurKumarKasana/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AnkurKumarKasana/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
