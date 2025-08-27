@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnkurKumarKasana/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AnkurKumarKasana/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnkurKumarKasana/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3791-fruits-into-baskets-iii](https://github.com/AnkurKumarKasana/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnkurKumarKasana/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnkurKumarKasana/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnkurKumarKasana/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## String
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnkurKumarKasana/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnkurKumarKasana/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
 |  |
 | ------- |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnkurKumarKasana/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AnkurKumarKasana/leetcode/tree/master/1013-fibonacci-number) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnkurKumarKasana/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Counting
 |  |
 | ------- |
