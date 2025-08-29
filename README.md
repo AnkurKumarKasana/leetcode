@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/AnkurKumarKasana/leetcode/tree/master/1500-count-largest-group) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AnkurKumarKasana/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnkurKumarKasana/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/AnkurKumarKasana/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/AnkurKumarKasana/leetcode/tree/master/3321-type-of-triangle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AnkurKumarKasana/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AnkurKumarKasana/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
