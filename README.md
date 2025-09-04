@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/AnkurKumarKasana/leetcode/tree/master/3321-type-of-triangle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AnkurKumarKasana/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AnkurKumarKasana/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3830-find-closest-person](https://github.com/AnkurKumarKasana/leetcode/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
