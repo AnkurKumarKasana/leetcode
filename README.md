@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AnkurKumarKasana/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnkurKumarKasana/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AnkurKumarKasana/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/AnkurKumarKasana/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/AnkurKumarKasana/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AnkurKumarKasana/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnkurKumarKasana/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/AnkurKumarKasana/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2530-minimize-maximum-of-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnkurKumarKasana/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnkurKumarKasana/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkurKumarKasana/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AnkurKumarKasana/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AnkurKumarKasana/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/AnkurKumarKasana/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkurKumarKasana/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/AnkurKumarKasana/leetcode/tree/master/2886-faulty-keyboard) |
 ## Trie
