@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AnkurKumarKasana/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/AnkurKumarKasana/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/AnkurKumarKasana/leetcode/tree/master/2886-faulty-keyboard) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnkurKumarKasana/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3617-find-the-original-typed-string-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/AnkurKumarKasana/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/AnkurKumarKasana/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AnkurKumarKasana/leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AnkurKumarKasana/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/AnkurKumarKasana/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
